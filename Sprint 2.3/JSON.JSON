@@ -1,0 +1,19 @@
+{
+    "medico1": {
+      "nome": "Dr. João Silva",
+      "especialidade": "Médico de Alzheimer",
+      "cidade": "São Paulo"
+    },
+    "medico2": {
+      "nome": "Dr. Maria Souza",
+      "especialidade": "Médico de Alzheimer",
+      "cidade": "Rio de Janeiro"
+      
+    },
+    "medico3": {
+      "nome": "Dr. José Santos",
+      "especialidade": "Médico de Alzheimer",
+      "cidade": "Belo Horizonte"
+    }
+  }
+  
